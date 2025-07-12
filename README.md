@@ -82,4 +82,3 @@
   </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsharma14&" alt="devsharma14" /></p>
