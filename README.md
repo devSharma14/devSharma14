@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/dev-sharma-7ba864270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sharma_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 <a href="https://x.com/DevSharma699403" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X (Twitter)" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
 </a>
   </a>
 </p>
